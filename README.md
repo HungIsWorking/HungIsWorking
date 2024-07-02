@@ -1,5 +1,5 @@
 # 💫 About Me:
-My name is Nguyen Tuan Hung.<br>My university is VNU University of Engineering and Technology.<br>My major is Information Systems.
+My name is Nguyen Tuan Hung.<br>My university is VNU University of Engineering and Technology.<br>Major: Information Systems.<br>Email contact: nguyentuanhung4002@gmail.com.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/nguyentuan.hung.3154/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/tuanhung_1312/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/h%C6%B0ng-nguy%E1%BB%85n-tu%E1%BA%A5n-8b1ab6202/) 
