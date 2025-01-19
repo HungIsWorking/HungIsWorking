@@ -1,8 +1,7 @@
 <h1 align="center">Hi 🙋‍♂️, I'm Nguyen Tuan Hung</h1>
 <h3 align="center">⚡ THE BEST OR NOTHING</h3> 
 
-![Background](https://github.com/user-attachments/assets/15d1d682-cf05-4951-8702-830a534bfbf2)
-
+![background](https://github.com/user-attachments/assets/0550ec27-3f06-49c4-b638-e25a5bd0fd84)
 
 # 💫 About Me:
 🔭 I’m currently studying at VNU University of Engineering and Technology<br><br>🌱 I’m currently learning Information Systems & Cyber Security<br><br>👨‍💻 All of my projects are available at https://github.com/HungIsWorking<br><br>💬 Ask me about Data structures and Algorithms<br><br>📫 Reach me at nguyentuanhung4002@gmail.com
