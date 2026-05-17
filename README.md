@@ -1,4 +1,4 @@
-# Hello 👋, My name is Nguyen Tuan Hung 👨‍💻
+# Hello 👋, My name is Hung 👨‍💻
 ![](image2.gif)
 
 # 💫 About Me:
